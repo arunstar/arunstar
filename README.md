@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun</h1>
-<h3 align="center">A curious freak and wannabe hacker from India :)</h3>
+<h3 align="center">Python, DevOps, Cybersecurity</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
